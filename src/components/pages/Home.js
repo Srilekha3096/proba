@@ -1,9 +1,12 @@
 import { Button } from '@mui/material'
 import React from 'react'
+import Header from './Header'
+import Footer from './Footer'
 
 function Home() {
   return (
     <>
+    <Header/>
     <div>
          <h2> List of our Projects and Products</h2>
          <h3>Library Management System</h3>
@@ -17,6 +20,7 @@ function Home() {
         <Button>Buy</Button>
         <Button>Add Review</Button>
     </div>
+    <Footer/>
     </>
   )
 }
