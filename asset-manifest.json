@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/proba/static/css/main.c9c28c10.css",
+    "main.js": "/github.io/proba/static/js/main.0fabfb36.js",
+    "static/js/488.1e0fe8c1.chunk.js": "/github.io/proba/static/js/488.1e0fe8c1.chunk.js",
+    "static/media/logo.jpg": "/github.io/proba/static/media/logo.c01f7d4822e5a377ce7e.jpg",
+    "index.html": "/github.io/proba/index.html",
+    "main.c9c28c10.css.map": "/github.io/proba/static/css/main.c9c28c10.css.map",
+    "main.0fabfb36.js.map": "/github.io/proba/static/js/main.0fabfb36.js.map",
+    "488.1e0fe8c1.chunk.js.map": "/github.io/proba/static/js/488.1e0fe8c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c28c10.css",
+    "static/js/main.0fabfb36.js"
+  ]
+}
