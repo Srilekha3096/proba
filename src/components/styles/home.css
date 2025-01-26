@@ -1,0 +1,95 @@
+.container_header{
+    background-color: #120a84;
+    height: 100px;
+}
+
+.container_footer{
+    position: fixed;
+    height: 150px;
+    background-color: #120a84;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color:#439298
+}
+
+.container-title{
+    float: right;
+    margin-right: 125px;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 25px;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {color: #3419bb;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+  .img_logo{
+    height: 100px;
+    width: 232px;
+    float: left;
+    margin-left: -1000px;
+    position: fixed;
+  }
+
+  .contact_details{
+    width: 390px;
+    position: fixed;
+  }
+
+  .quick_links{
+    margin-left: 740px;
+    position: fixed;
+ }
+
+ .payment_details{
+    margin-left: 1216px;
+    position: fixed;
+ }
+
+ .cards{
+    height: 50px;
+    width: 100px;
+ }
